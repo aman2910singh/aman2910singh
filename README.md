@@ -7,7 +7,7 @@
 - Frontend: HTML, CSS, JavaScript (ES6+), React  
 - Backend: Node.js, Express  
 - Database: MongoDB, MySQL  
-- Other: Git, GitHub, Linux
+- Other: Git, GitHub, Linux, Wordpress
 - Programming Language: C , Python ,Java
 
 ## 📌 What I Do
